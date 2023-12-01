@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<figure><embed src="https://wakatime.com/share/@018b226c-9c67-4c2d-9ae8-3cb498299483/1792e31f-0ad0-4894-ab72-0d83e6a0a57e.svg"></embed></figure>
 <!--
 **sam4021/sam4021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
